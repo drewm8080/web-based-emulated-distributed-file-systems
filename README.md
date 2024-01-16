@@ -46,4 +46,3 @@ The search function enables users to perform SQL queries on the uploaded dataset
 ## Analytics Function
 The web application includes a section explaining the regression analysis and allows users to predict the car accident rate by inputting several attributes based on trained models.
 
-For more information, please refer to the [reference link](https://www.jqueryscript.net/other/dynamic-tree-editor.html).
