@@ -1,6 +1,9 @@
 # Project Overview
+
 **Contributors**:Aditya Singh, Andrew Moore, Thanawan Lertmongkolnam, Vorapoom Thirapatarapong, Xinxin Xu
+
 **Video Showcase**: : https://www.youtube.com/watch?v=EC6Q2U3nW7s
+
 **Grade**: 100%
 
 ## Description
